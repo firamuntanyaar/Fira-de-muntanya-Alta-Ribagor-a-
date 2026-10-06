@@ -1,0 +1,8 @@
+{
+  "name": "Remix Mercat de Segona Mà - 4a Fira de Muntanya de l\u0027Alta Ribagorça",
+  "description": "Mercat de Segona Mà de la 4a Fira de Muntanya a la seu única d\u0027El Pont de Suert amb 17 categories, control de pagament Efectiu/VISA i comissió del 10%.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
